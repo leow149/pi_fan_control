@@ -1,4 +1,4 @@
-[![Code Quality](https://www.codefactor.io/repository/github/leow149/pi_fan_control/badge)](https://www.codefactor.io/repository/github/leow149/pi_fan_control)
+[![codefactor](https://www.codefactor.io/repository/github/leow149/pi_fan_control/badge)](https://www.codefactor.io/repository/github/leow149/pi_fan_control)
 [![Updates](https://pyup.io/repos/github/leow149/pi_fan_control/shield.svg)](https://pyup.io/repos/github/leow149/pi_fan_control/)
 [![Python 3](https://pyup.io/repos/github/leow149/pi_fan_control/python-3-shield.svg)](https://pyup.io/repos/github/leow149/pi_fan_control/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
