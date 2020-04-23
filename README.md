@@ -1,4 +1,5 @@
 [![BCH compliance](https://bettercodehub.com/edge/badge/leow149/pi_fan_control?branch=master)](https://bettercodehub.com/)
+[![CodeFactor](https://www.codefactor.io/repository/github/leow149/pi_fan_control/badge)](https://www.codefactor.io/repository/github/leow149/pi_fan_control)
 
 # pi_fan_control
 
