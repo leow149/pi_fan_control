@@ -1,3 +1,5 @@
+"""pi_fan_control.py by leow149"""
+
 import time
 import RPi.GPIO as GPIO
 from gpiozero import CPUTemperature
