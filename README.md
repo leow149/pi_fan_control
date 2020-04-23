@@ -1,6 +1,8 @@
-[![BCH compliance](https://bettercodehub.com/edge/badge/leow149/pi_fan_control?branch=master)](https://bettercodehub.com/)
 [![CodeFactor](https://www.codefactor.io/repository/github/leow149/pi_fan_control/badge)](https://www.codefactor.io/repository/github/leow149/pi_fan_control)
-![GitHub language count](https://img.shields.io/github/languages/count/leow149/pi_fan_control)
+[![Updates](https://pyup.io/repos/github/leow149/pi_fan_control/shield.svg)](https://pyup.io/repos/github/leow149/pi_fan_control/)
+[![Python 3](https://pyup.io/repos/github/leow149/pi_fan_control/python-3-shield.svg)](https://pyup.io/repos/github/leow149/pi_fan_control/)
+ [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
 
 # pi_fan_control
 
