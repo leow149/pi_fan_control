@@ -1,6 +1,6 @@
 [![BCH compliance](https://bettercodehub.com/edge/badge/leow149/pi_fan_control?branch=master)](https://bettercodehub.com/)
 [![CodeFactor](https://www.codefactor.io/repository/github/leow149/pi_fan_control/badge)](https://www.codefactor.io/repository/github/leow149/pi_fan_control)
-![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/leow149/pi_fan_control)
+![GitHub language count](https://img.shields.io/github/languages/count/leow149/pi_fan_control)
 
 # pi_fan_control
 
