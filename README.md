@@ -1,3 +1,5 @@
+[![BCH compliance](https://bettercodehub.com/edge/badge/leow149/pi_fan_control?branch=master)](https://bettercodehub.com/)
+
 # pi_fan_control
 
 With this python script the speed of a 4-pin PWM fan is rising with the temperature of your raspi-CPU.
